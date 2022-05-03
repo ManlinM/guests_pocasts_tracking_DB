@@ -1,6 +1,6 @@
--- COMP 53 Assignment 2 
+
 -- Topic:Podcasting company guests and podcasts tracking db
--- Section:101
+
 -- Name:Manlin Mao
 DROP DATABASE IF EXISTS A2Manlin;
 CREATE	DATABASE A2Manlin;
